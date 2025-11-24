@@ -2,7 +2,7 @@ package org.example.db;
 
 public class DataBaseConnectionFactory {
 
-    public Object getConnection(String dbType) {
+    public Object getConnection() {
         return null;
     }
 }

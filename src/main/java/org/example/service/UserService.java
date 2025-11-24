@@ -11,10 +11,11 @@ public class UserService {
 
     public User getUserById(Long id) {
          dataBaseConnectionFactory.getConnection();
+         return null;
     }
 
     public User getUserByUsername(String username) {
-
+        return null;
     }
 
 
