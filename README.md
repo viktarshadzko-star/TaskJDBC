@@ -124,3 +124,8 @@ See `docker/init.sql` for the complete schema and sample data.
 - JDBC
 - Docker & Docker Compose
 
+## Useful Links
+- [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+- [JDBC Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/)
+- https://habr.com/ru/companies/otus/articles/902240/
+
